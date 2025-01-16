@@ -1,6 +1,6 @@
 Privacy Policy for Gmail Tracking Extractor
 
-Last Updated: 01/15/2025
+Last Updated: 01/16/2025
 
 At Gmail Tracking Extractor (referred to as “we,” “our,” or “us”), we respect your privacy and are committed to protecting your personal information. This Privacy Policy describes how we collect, use, and protect your data when you use our Chrome extension. By using our extension, you agree to the terms of this Privacy Policy.
 
